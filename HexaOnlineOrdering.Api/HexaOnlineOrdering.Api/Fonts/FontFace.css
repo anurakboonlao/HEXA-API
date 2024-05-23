@@ -1,0 +1,59 @@
+﻿@font-face {
+    font-family: arial;
+    src: url('./arial.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: book antiqua;
+    src: url('./book-antiqua.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: browallia new;
+    src: url('./browallia-new.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: courier new;
+    src: url('./courier-new.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: georgia;
+    src: url('./georgia.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: helvetica;
+    src: url('./helvetica.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: symbol medium;
+    src: url('./symbol-medium.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: times new roman;
+    src: url('./times-new-roman.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: times new roman;
+    src: url('./times-new-roman.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: prompt;
+    src: url('./prompt-regular.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: prompt-mid;
+    src: url('./prompt-medium.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: prompt-bold;
+    src: url('./prompt-bold.ttf') format("truetype");
+}

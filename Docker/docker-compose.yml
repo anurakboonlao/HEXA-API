@@ -1,0 +1,14 @@
+version: '3.4'
+
+services:
+  crm-funnel-mysql:
+    image: mysql/mysql-server:8.0.24
+    command: mysqld --default-authentication-plugin=mysql_native_password
+    container_name: hexa-online-ordering
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=hexa_online_dev
+      - MYSQL_PASSWORD=root
+      - MYSQL_ROOT_HOST=%
+    ports:
+        - 3310:3306
